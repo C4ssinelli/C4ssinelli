@@ -9,5 +9,5 @@
 - Backend 💧
 
 ## Get in touch
-- E-mail: cassinelli.alex2@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/alex-cassinelli-b6516024b/)
+- If you want to talk: cassinelli.alex2@gmail.com
+- If you want to hire me: [LinkedIn](https://www.linkedin.com/in/alex-cassinelli-b6516024b/)
