@@ -1,18 +1,13 @@
 # Hello there! Welcome to my Github profile!
-## I'm Alex Cassinelli, a student at Universidade Estadual Paulista (UNESP)
+## About me
+- I'm Alex Cassinelli, an undergraduate student at Universidade Estadual Paulista (UNESP)
+- Currently finishing my final paper 📓
 
-- 🔭 I'm currently working on my final paper;
-- 🌱 I'm curre
+## Things I'm passionate about
+- Cibersecurity 🧠
+- Competitive Programming 🏆
+- Backend 💧
 
-<!--
-**C4ssinelli/C4ssinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
-
+## Get in touch
+- E-mail: cassinelli.alex2@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/alex-cassinelli-b6516024b/)
