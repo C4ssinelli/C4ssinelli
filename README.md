@@ -1,11 +1,11 @@
 # Hello there! Welcome to my Github profile!
 ## About me
-- I'm Alex Cassinelli, an undergraduate student at Universidade Estadual Paulista (UNESP)
-- Currently finishing my final paper 📓
+- I'm Alex Cassinelli, a Bachelor Graduate at Universidade Estadual Paulista (UNESP)
+- Currently a Masters student at Universidade Estadual de Campinas (UNICAMP) 📓
 
 ## Things I'm passionate about
 - Cibersecurity 🧠
-- Competitive Programming 🏆
+- Cryptography 🏆
 - Backend 💧
 
 ## Get in touch
