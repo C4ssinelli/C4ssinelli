@@ -1,7 +1,7 @@
 ---
 name: Alex Luiz Domingues Cassinelli
 image: 
-role: msc
+role: msc student
 description: Msc student
 aliases:
   - Alex Luiz Domingues Cassinelli
@@ -9,10 +9,10 @@ aliases:
   - A. L. D. Cassinelli
   - Alex L D Cassinelli
 links:
-  home-page: 
-  email: cassinelli.alex2@gmail.com
+  home-page: https://github.com/C4ssinelli
+  email: a249884@dac.unicamp.com
 ---
 
-Masters student at Institute of Computing - State University of Campinas (Unicamp)
+Msc student at Institute of Computing - State University of Campinas (Unicamp)
 Bsc in Computer Science at Universidade Estadual Paulista - Bauru (Unesp)
 My main research interests are homomorphic encryption, post-quantum cryptography, and computing on encrypted data.
